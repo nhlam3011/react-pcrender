@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-pcrender/static/css/main.f617cb66.css",
-    "main.js": "/react-pcrender/static/js/main.3cf7a09d.js",
+    "main.css": "/react-pcrender/static/css/main.1f97a28b.css",
+    "main.js": "/react-pcrender/static/js/main.db516ef0.js",
     "static/media/thedenmbbank.png": "/react-pcrender/static/media/thedenmbbank.59032f5ae2ca6732f41a.png",
     "static/media/tpbanktheden.png": "/react-pcrender/static/media/tpbanktheden.03ca8d652e7b2bcc4c23.png",
     "static/media/thedenagri.png": "/react-pcrender/static/media/thedenagri.43079833758fab2e1103.png",
@@ -13,6 +13,7 @@
     "static/media/vpbank.jpg": "/react-pcrender/static/media/vpbank.9e9012c0cf4919a68d5c.jpg",
     "static/media/logo-vietcombank-khong-slogan.png": "/react-pcrender/static/media/logo-vietcombank-khong-slogan.5a3412d357b9164a458c.png",
     "static/media/vp-bank.jpg": "/react-pcrender/static/media/vp-bank.51bf5823b4bd81543d5d.jpg",
+    "static/media/oops2.jpg": "/react-pcrender/static/media/oops2.3fc878c5afcefa08d937.jpg",
     "static/media/mb.png": "/react-pcrender/static/media/mb.e78aa8e1be8a47cf036e.png",
     "static/media/denviettin.jpg": "/react-pcrender/static/media/denviettin.d8707e86951bf5df6202.jpg",
     "static/media/acb.png": "/react-pcrender/static/media/acb.4a57d49f7d24bf5defa8.png",
@@ -21,11 +22,11 @@
     "static/media/acbvisa.jpg": "/react-pcrender/static/media/acbvisa.925516dd79b854fdd96a.jpg",
     "static/media/viettinbank.png": "/react-pcrender/static/media/viettinbank.9876bfffd221d7078226.png",
     "index.html": "/react-pcrender/index.html",
-    "main.f617cb66.css.map": "/react-pcrender/static/css/main.f617cb66.css.map",
-    "main.3cf7a09d.js.map": "/react-pcrender/static/js/main.3cf7a09d.js.map"
+    "main.1f97a28b.css.map": "/react-pcrender/static/css/main.1f97a28b.css.map",
+    "main.db516ef0.js.map": "/react-pcrender/static/js/main.db516ef0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f617cb66.css",
-    "static/js/main.3cf7a09d.js"
+    "static/css/main.1f97a28b.css",
+    "static/js/main.db516ef0.js"
   ]
 }
