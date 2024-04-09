@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-pcrender/static/css/main.1fbdb0e0.css",
-    "main.js": "/react-pcrender/static/js/main.0d0f2e06.js",
+    "main.js": "/react-pcrender/static/js/main.345150cb.js",
     "static/media/thedenmbbank.png": "/react-pcrender/static/media/thedenmbbank.59032f5ae2ca6732f41a.png",
     "static/media/tpbanktheden.png": "/react-pcrender/static/media/tpbanktheden.03ca8d652e7b2bcc4c23.png",
     "static/media/thedenagri.png": "/react-pcrender/static/media/thedenagri.43079833758fab2e1103.png",
@@ -23,10 +23,10 @@
     "static/media/viettinbank.png": "/react-pcrender/static/media/viettinbank.9876bfffd221d7078226.png",
     "index.html": "/react-pcrender/index.html",
     "main.1fbdb0e0.css.map": "/react-pcrender/static/css/main.1fbdb0e0.css.map",
-    "main.0d0f2e06.js.map": "/react-pcrender/static/js/main.0d0f2e06.js.map"
+    "main.345150cb.js.map": "/react-pcrender/static/js/main.345150cb.js.map"
   },
   "entrypoints": [
     "static/css/main.1fbdb0e0.css",
-    "static/js/main.0d0f2e06.js"
+    "static/js/main.345150cb.js"
   ]
 }
